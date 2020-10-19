@@ -1,0 +1,29 @@
+#container{
+    width: 88%;
+    margin: 0 auto;
+    max-width: 780px;
+}
+
+body{
+    background-color: rgb(222, 222, 222);
+}
+
+input{
+    outline: none;
+    padding: 5px 10px;
+}
+
+a{
+    text-decoration: none;
+}
+
+input[type="submit"]{
+    border-radius: 20px;
+    color: aqua;
+    background-color: rgba(0,0,0,0.7);
+}
+
+button{
+    border-radius: 20px;
+    margin: 0 7px;
+}
